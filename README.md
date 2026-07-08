@@ -118,8 +118,6 @@ Example:
 
 <img width="752" height="565" alt="Myntra-Fashion-Product-Performance Dashboard" src="https://github.com/user-attachments/assets/889a3bdf-8c37-4b21-a2bb-474ec59b4aef" />
 
-<img width="752" height="565" alt="Myntra-Fashion-Product-Performance Dashboard" src="https://github.com/user-attachments/assets/1599990b-92a5-42cf-a0ff-b783cb437c4e" />
-
 ---
 
 ## 📁 Repository Structure
